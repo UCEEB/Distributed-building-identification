@@ -3,7 +3,7 @@ Identify building thermodynamic models in a distributed manner.
 
 # Requirements
 The repository contents was created using following software:
- * Matlab R2020a
+ * Matlab R2020a (necessary toolboxes are listed in the demo example file)
  * EnergyPlus 9.1.0
 
 # Features
